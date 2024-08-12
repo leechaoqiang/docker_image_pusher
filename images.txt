@@ -1,6 +1,6 @@
 alpine:latest
 nginx:latest
-maven:3.9.4-eclipse-temurin-21
+#maven:3.9.4-eclipse-temurin-21
 ollama/ollama:latest
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
