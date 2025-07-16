@@ -4,7 +4,8 @@
 #ollama/ollama:latest
 #ollama/ollama:0.9.0
 #grafana/grafana:12.0.1
-cassianvale/stock-scanner:latest
+#cassianvale/stock-scanner:latest
+nginx:stable-alpine
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
